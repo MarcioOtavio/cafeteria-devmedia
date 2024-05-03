@@ -51,5 +51,3 @@
   </article>
 </section>
 
-<section>
-  <h2>Como Executar o Projeto</h2>
